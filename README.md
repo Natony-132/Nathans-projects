@@ -1,4 +1,4 @@
-# Nathan-s-projects
+# Nathans-projects
 This is a one stop shop for all of my public projects on Github
 Below you will find a short description of each project and a link to that project's repository.
 
