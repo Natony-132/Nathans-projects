@@ -12,3 +12,9 @@ https://github.com/Natony-132/Flight-sim-breakout-board-pcb
 Flight simulator collective – research, design, and integration. Repurposed real aircraft hardware, fabricated mounts, and designed custom circuit boards to integrate a UH34 helicopter collective to a PC program as a USB device. 
 Flight simulator FA18 and A10 panels. Replicated panels and used custom circuit boards to integrate them into a PC program as a USB device.
 ![flight sim demo image](/Images/flight%20sim%20lights%20on.jpg)
+
+# Rebuilt a salvage car (front end collision). 
+https://github.com/Natony-132/Rebuilding-a-Miata
+Performed a damage assessment and cost analysis, rebuilt the car, and passed inspection. 
+![crunch](/Images/Yard%201.jpg)
+![like new](/Images/Done.jpg)
