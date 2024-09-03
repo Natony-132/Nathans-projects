@@ -8,7 +8,7 @@ Simulated remote mine for airsoft. Used 915MHz LoRa radios and other hardware to
 ![Airsoft mine demo image](/Images/ARE%202.jpg)
 
 ## S.T.A.R
-(https://github.com/Natony-132/S.T.A.R.).
+https://github.com/Natony-132/S.T.A.R.   
 As part of senior design at the University of Arizona, I worked with a multidisciplinary team of engineers to design, build, and test a 40mm tube-launched surveillance drone.
 ![STAR](/Images/Star%20air%201.PNG)
 ![STAR 2](/Images/Star%20air%20going%20up.PNG)
